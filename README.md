@@ -2,7 +2,7 @@
 
 A new Flutter application for calculator.
 
-![Image](https://github.com/Tamas2016/Flutter_Calculator/tree/master/Screenshots/2.png)
+![Image](https://github.com/Tamas2016/Flutter_Calculator/raw/master/Screenshots/2.png)
 
 ## Getting Started
 
